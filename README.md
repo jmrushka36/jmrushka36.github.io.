@@ -1,5 +1,3 @@
-# jmrushka36.github.io.
-Professional Portfolio
 <!DOCTYPE html>
 <html lang="en">
 <head>
